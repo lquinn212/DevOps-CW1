@@ -6,7 +6,7 @@ class Dec2Hex
     public static int Arg1;
 
     public static void main(String args[])
-    {
+    { try{
         Arg1 = Integer.parseInt(args[0]);
         char ch[]={'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};
         int rem, num;
@@ -21,7 +21,9 @@ class Dec2Hex
             num= num/16;
         }
 
-        System.out.println("Hexadecimal representation for your chosen value is: " + hexadecimal);
+        System.out.println("Hexadecimal representation for your chosen value is: " + hexadecimal);}
+	
+	catch (NumberFormatException e) {System.out.println("Please insert a decimal value");}
 
     }
 }
