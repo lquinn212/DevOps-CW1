@@ -1,0 +1,131 @@
+commit b7feee0373a09f30e8ef11682f8e3502bab88bf7
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 15 19:33:05 2023 +0000
+
+    Restoring file to original code for use in Supplementary Evidence Doc
+
+commit 7968e41a5957cf5f8c066dd731682a23ece6ef2f
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 15 18:36:11 2023 +0000
+
+    Altered output message for video demo
+
+commit 0ed5db58b88cc4be975ce3a445c65a72bb85a6a8
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 15 18:26:13 2023 +0000
+
+    Changed output message for video recording
+
+commit 0a5e37d8f3d56de6071e3753e21c032f3cf36e4b
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 15 17:28:42 2023 +0000
+
+    restored to original version as instance crash again after first output message change
+
+commit 112930b1bbdfea0942a333f757924122e2b63e8f
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 15 17:10:08 2023 +0000
+
+    Making very simple change to output message to check not all changes crash instance
+
+commit 6cdd030cdbb1d6c84e25d45a6bc32f8c930943f4
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 15 15:58:54 2023 +0000
+
+    Reverting to original code as square calc also crashed instance
+
+commit 008bdb506b2bc5d882a5a5f3308352a2fdcc8e69
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 15 15:39:38 2023 +0000
+
+    Added square calculation to check if simple calcs crash instance as well as the try and catch
+
+commit c80fe6b565233222a40484d8791395b3df143b54
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 15 14:47:12 2023 +0000
+
+    Even alternative improvement crashing instance so reverting to original code to start again
+
+commit a03605a81724f51e300f2130f8faa3d556190086
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Tue Nov 14 23:44:58 2023 +0000
+
+    Alternative Binary Improvement Added
+
+commit ab70d2a237cbabb2a9cccaa4711b68516b46e2ba
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Tue Nov 14 23:27:31 2023 +0000
+
+    Try and Catch still crashing instance so reverting back to original code to seek alt improvements
+
+commit 507aff5f322d41f44902454818d44da354909629
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Tue Nov 14 22:53:25 2023 +0000
+
+    Added try and catch with scanner again but changed to more generic exception
+
+commit 552cb41e9f325d53d1fc2b18b0726fa42432eb71
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Tue Nov 14 22:44:17 2023 +0000
+
+    try and catch with scanner still crashed instance. Reverting to original code
+
+commit c8d9dcb10ee23b18932682d68cea88ce126417ec
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Tue Nov 14 21:52:46 2023 +0000
+
+    Added try and catch again but now in conjunction with scanner
+
+commit 50931f47281bdf18602bf3e8d8abb4bf15fedbf8
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Tue Nov 14 20:39:12 2023 +0000
+
+    Infinite loop still occuring so reverting to orignal code
+
+commit 864c1cbae18256720f36e15547e3e059cd187256
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Tue Nov 14 20:16:55 2023 +0000
+
+    Added catch exception AND catch error to try stop infinite looping
+
+commit 8cc907de6b569dd09be73d5b794e5bd0057741f4
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Tue Nov 14 19:46:37 2023 +0000
+
+    Removing try and catch to stop infinite loop crash
+
+commit 5ecffb674a1f841f8456406c51e2301501e4fc87
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Thu Nov 9 16:01:02 2023 +0000
+
+    Adding exemption catch at beginning of code to avoid loop
+
+commit f3e083458c9707b57cc0982ad75eb9bce9ca80a0
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Thu Nov 9 15:19:33 2023 +0000
+
+    Amending file to investigate default error more thoroughly
+
+commit 6a5f302b8d13314557e349c4e5ff4019395b0ed3
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Thu Nov 9 13:49:04 2023 +0000
+
+    Added Exception catch to Dex2Hex.java
+
+commit ca9c0bd41154ab62a0da836cc967fc86b74e3583
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 8 18:31:00 2023 +0000
+
+    Adding sonar properties file
+
+commit a56f047f67b0a8f9b06aabd0bdd97676671162d7
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 8 17:57:52 2023 +0000
+
+    Amended output message to check jenkins is detecting changes
+
+commit 12b63071d84ddc26a9f4ab69cbc736a38b3209db
+Author: “lquinn212” <lquinn212@caledonian.ac.uk>
+Date:   Wed Nov 8 16:59:43 2023 +0000
+
+    Adding Dex2Hex java file
